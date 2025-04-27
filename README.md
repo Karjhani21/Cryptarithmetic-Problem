@@ -122,6 +122,7 @@ else:
 ```
 
 OUTPUT:
+ 
  ![image](https://github.com/user-attachments/assets/8c91c697-77e3-4ed1-9332-f0b6a5975007)
 
 <hr>
